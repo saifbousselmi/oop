@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name":"POLO BANDE",
+        "price": 99,
+        "image": "image/polo-removebg-preview.png"
+    },
+    {
+        "id": 2,
+        "name":"MAILLOT OFFICIEL",
+        "price": 89,
+        "image": "image/WhatsApp-Image-2023-08-06-at-10.07.58-removebg-preview__1_-removebg-preview.png"
+    },
+    {
+        "id": 3,
+        "name":"MAILLOT OFFICIEL",
+         "price": 89,
+        "image": "image/WhatsApp-Image-2022-11-29-at-20.35.01-3-removebg-preview.png"
+    },
+    {
+        "id": 4,
+        "name":"PANTALON",
+         "price": 79,
+        "image": "image/noir-removebg-preview.png"
+    },
+    {
+        "id": 5,
+        "name":"Casquette En Jean",
+        "price": 29,
+        "image": "image/stone-removebg-preview.png"
+    },
+    {
+        "id": 6,
+        "name":"MAILLOT BASKET",
+        "price": 69,
+        "image": "image/WhatsApp-Image-2024-04-08-at-15.56.51_69bef18b-300x300-removebg-preview.png"
+    },
+    {
+        "id": 7,
+        "name":"Ballon",
+        "price": 109,
+        "image": "image/WhatsApp-Image-2023-05-17-at-11.55.53-removebg-preview.png"
+    },
+    {
+        "id": 8,
+        "name":"MAILLOT BASKET ",
+         "price": 69,
+        "image": "image/WhatsApp-Image-2023-12-14-at-12.01.25_875e4076-removebg-preview.png"
+    },
+    {
+        "id": 9,
+        "name":"Porte clé rotatif",
+         "price": 10,
+        "image": "image/WhatsApp-Image-2023-11-11-at-20.38.54-2-300x300-removebg-preview.png"
+    },
+    {
+        "id": 10,
+        "name":"Maillot Officiel Domicile Hand 2024/2025",
+         "price": 85,
+        "image": "image/70-300x300-removebg-preview.png"
+    }
+    ,
+    {
+        "id": 11,
+        "name":"Stylo métallique Club africain",
+         "price": 4,
+        "image": "image/WhatsApp-Image-2023-11-11-at-20.38.55-300x300-removebg-preview.png"
+    }
+    
+
+
+]

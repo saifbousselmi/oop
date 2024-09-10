@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CA Megastore</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="https://clubafricain.com/wp-content/uploads/ca.svg">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div class="title">CLUB</div>
+                <span class="et_pb_image_wrap et_pb_only_image_mode_wrap">
+                    <img id="club-logo" decoding="async" src="https://clubafricain.com/wp-content/uploads/ca.svg" alt="" style="width: 100px; height: auto;" onclick="refreshPage()">
+                </span>
+                <div class="title">AFRICIAN</div>
+            </div>
+            <div class="icon-cart">
+                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 20">
+                    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 15a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm0 0h8m-8 0-1-4m9 4a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm-9-4h10l2-7H3m2 7L3 4m0 0-.792-3H1"/>
+                </svg>
+                <span>0</span> <!-- Quantity display -->
+            </div>
+        </header>
+        <div style="background-image: url(/image/BG club african.png);">
+            <div class="listProduct"></div>
+        </div>
+        <div class="cartTab">
+            <h1>Shopping Cart</h1>
+            <div>
+                <h4 id="total-price">TOTAL: $<span id="total">0</span></h4>
+            </div>
+            <div class="listCart"></div>
+            <div class="btn">
+                <button class="close">CLOSE</button>
+                <button class="checkOut">Check Out</button>
+            </div>
+        </div>
+    </div>
+    <script src="/app.js"></script>
+</body>
+</html>
